@@ -1,0 +1,10 @@
+{
+  "apiKey": "AIzaSyAtihUDQ_BLEMFk6k5xxERTfPHV59tExGs",
+  "authDomain": "mcq-angular.firebaseapp.com",
+  "databaseURL": "https://mcq-angular.firebaseio.com",
+  "projectId": "mcq-angular",
+  "storageBucket": "mcq-angular.appspot.com",
+  "messagingSenderId": "491374442088",
+  "appId": "1:491374442088:web:f2ee708d17631ae9212ddd",
+  "measurementId": "G-0LDE65BPN8"
+}
